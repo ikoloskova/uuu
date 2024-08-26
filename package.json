@@ -1,0 +1,14 @@
+{
+  "name": "coursenode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
